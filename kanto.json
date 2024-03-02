@@ -2,46 +2,46 @@
   {
     "pokedexno": "#1",
     "name": "Bulbasaur",
-    "sprite": "/images/bulbasaur.png"
+    "sprite": "bulbasaur.png"
   },
   {
     "pokedexno": "#2",
     "name": "Ivysaur",
-    "sprite": "/images/ivysaur.png"
+    "sprite": "ivysaur.png"
   },
   {
     "pokedexno": "#3",
     "name": "Venusaur",
-    "sprite": "/images/venusaur.png"
+    "sprite": "venusaur.png"
   },
   {
     "pokedexno": "#4",
     "name": "Charmander",
-    "sprite": "/images/charmander.png"
+    "sprite": "charmander.png"
   },
   {
     "pokedexno": "#5",
     "name": "Charmeleon",
-    "sprite": "/images/charmeleon.png"
+    "sprite": "charmeleon.png"
   },
   {
     "pokedexno": "#6",
     "name": "Charizard",
-    "sprite": "/images/charizard.png"
+    "sprite": "charizard.png"
   },
   {
     "pokedexno": "#7",
     "name": "Squirtle",
-    "sprite": "/images/squirtle.png"
+    "sprite": "squirtle.png"
   },
   {
     "pokedexno": "#8",
     "name": "Wartortle",
-    "sprite": "/images/wartortle.png"
+    "sprite": "wartortle.png"
   },
   {
     "pokedexno": "#9",
     "name": "Blastoise",
-    "sprite": "/images/blastiose.png"
+    "sprite": "blastiose.png"
   }
 ]
